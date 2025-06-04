@@ -6,13 +6,6 @@ A aplicação tem como objetivo buscar os jogos inseridos no banco de dados, exi
 
 ---
 
-<!-- Aqui você pode anexar imagens posteriormente -->
-<!-- Exemplo de markdown para imagens:
-![Descrição da Imagem](caminho/para/imagem.png)
--->
-
----
-
 ## 🧠 Modelo Conceitual
 
 ![image](https://github.com/user-attachments/assets/b4b43bbc-4371-414a-ac94-f71609ef33b9)
