@@ -6,8 +6,6 @@ A aplicação tem como objetivo buscar os jogos inseridos no banco de dados, exi
 
 ---
 
-## 📸 Screenshots
-
 <!-- Aqui você pode anexar imagens posteriormente -->
 <!-- Exemplo de markdown para imagens:
 ![Descrição da Imagem](caminho/para/imagem.png)
